@@ -12,3 +12,5 @@ loginphp - This page is displayed if the user has successfully logged in.
 question.php - this allows usre to submit custom questions to the quiz hive qeustions database.
 answer.php - This is apge that displays the unanswered questions to the user.
 logout.php- it logs u out
+screenshots
+(https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(5).png)
