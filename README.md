@@ -11,8 +11,11 @@ Registration.php - Allows new user to register him/herself to quiz Hive.
 loginphp - This page is displayed if the user has successfully logged in.
 question.php - this allows usre to submit custom questions to the quiz hive qeustions database.
 answer.php - This is apge that displays the unanswered questions to the user.
-logout.php- it logs u out
+logout.php- it logs u out)
 screenshots
 ![homepage.png](https://raw.githubusercontent.com/sriranganathan/counter_app/master/app/screenshots/Screenshot%20(5).png)
 ![register.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(6).png)
 ![login.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(7).png)
+![question.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(8).png)
+![answer.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(9).png)
+![db.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(10).png)
