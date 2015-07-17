@@ -13,4 +13,5 @@ question.php - this allows usre to submit custom questions to the quiz hive qeus
 answer.php - This is apge that displays the unanswered questions to the user.
 logout.php- it logs u out
 screenshots
-[homepage.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(5).png)
+[!homepage.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(5).png)
+(https://raw.githubusercontent.com/sriranganathan/counter_app/master/app/screenshots/Screenshot%20(5).png)
