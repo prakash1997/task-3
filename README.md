@@ -14,3 +14,4 @@ answer.php - This is apge that displays the unanswered questions to the user.
 logout.php- it logs u out
 screenshots
 ![homepage.png](https://raw.githubusercontent.com/sriranganathan/counter_app/master/app/screenshots/Screenshot%20(5).png)
+![register.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(6).png)
