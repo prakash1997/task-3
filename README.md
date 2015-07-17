@@ -19,3 +19,16 @@ screenshots
 ![question.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(8).png)
 ![answer.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(9).png)
 ![db.png](https://github.com/sriranganathan/counter_app/blob/master/app/screenshots/Screenshot%20(10).png)
+Build instructions
+create a homepage.php file which contains the layout for login - the input field for username and password.
+on clicking submit, the username is checked against the variuos usernames in the users database and verified for the password.
+if not the page displays an error message.
+php is used to validae and not javascript.
+if the user wishes to register him/herself as new user - there must be a link provided that links to 'registration.php'.
+in the registration page, the user must provide an unique username and this is done by using php to check whether if already exists or not.
+The data provided must be written into the database table 'users'.
+For succesfull registration, the user must be provided with a link to the homepage to login.
+In the logged in state(route - 'login.php), the users is given various options - submit , take quiz, score.
+The layout is done by using bootstrap,html and jquery.
+The submit option allows the user to submit a question which is MCQ type.
+The Quiz option allows users to answer the unanswered questions and gain points.
